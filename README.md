@@ -1,4 +1,5 @@
 # PACE: An Encrypted Secondary Physical Clipboard
+![How to copy and paste between computers](https://preview.redd.it/slpt-how-to-copy-and-paste-between-computers-v0-wpkv1rtiy0k81.jpg?width=640&crop=smart&auto=webp&s=9886243f5a228b2ed364b85a61238d27c735b040)
 
 ## Project Overview
 **PACE** is a virtual encrypted intelligent clipboard that enhances productivity by enabling secure data transfer and multi-system management. Designed for seamless copying, pasting, and transferring of files and credentials, PACE offers a user-friendly, secure, and efficient way to manage data across multiple systems.
